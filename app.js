@@ -27,4 +27,6 @@ module.exports = async function (fastify, opts) {
   })
 }
 
+// this is our first project
+
 module.exports.options = options
